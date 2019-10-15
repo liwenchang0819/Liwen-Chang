@@ -1,7 +1,4 @@
 # Liwen-Chang- DH150 Experience Design 
-$ git clone 
-
-
 https://github.com/liwenchang0819/Liwen-Chang/edit/master/README.md
 
 The website is a portfolio of User Experience Reseach and Design class. It is still a work in progress but it will has lots of my creative works
