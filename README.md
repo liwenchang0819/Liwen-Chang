@@ -1,6 +1,8 @@
 # Liwen-Chang- DH150 Experience Design 
 https://github.com/liwenchang0819/Liwen-Chang/edit/master/README.md
 
+
+
 The website is a portfolio of User Experience Reseach and Design class. It is still a work in progress but it will has lots of my creative works
 I am a new user of Gifhub. I thin it is good because it hosts our source code projects. Also, the projects which we put on Gifhub can be managed in whatever way is best for the user. Users can also design the organization's needs.
 "The visibility of system status" is playing an important rule for user experience design. The rteason is that it can should user the reasonable that when they are downloading something they are very clear how long they have to wait. So users will know what is going on inside of the system. 
