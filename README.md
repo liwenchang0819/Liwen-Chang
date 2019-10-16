@@ -1,6 +1,7 @@
 # Liwen-Chang- DH150 Experience Design 
 https://github.com/liwenchang0819/Liwen-Chang/edit/master/README.md
-![Screenshot.png](https://liwenchang0819.github.io/Liwen-Chang/Screenshot.png)
+
+![Screenshot.png](https://liwenchang0819.github.io/Liwen-Chang/Screenshot2.png)
 
 The website is a portfolio of User Experience Reseach and Design class. It is still a work in progress but it will has lots of my creative works
 I am a new user of Gifhub. I thin it is good because it hosts our source code projects. Also, the projects which we put on Gifhub can be managed in whatever way is best for the user. Users can also design the organization's needs.
