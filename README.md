@@ -8,7 +8,7 @@ The website is a portfolio of User Experience Reseach and Design class. It is st
 I am a new user of Gifhub. I thin it is good because it hosts our source code projects. Also, the projects which we put on Gifhub can be managed in whatever way is best for the user. Users can also design the organization's needs.
 
 ![findsisterhood](https://liwenchang0819.github.io/Liwen-Chang/FSH1-1.png)
-![findsisterhood](https://liwenchang0819.github.io/Liwen-Chang/FSH1.png)
+
 
 
 1. "The visibility of system status"
