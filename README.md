@@ -6,7 +6,18 @@ https://github.com/liwenchang0819/Liwen-Chang/edit/master/README.md
 
 The website is a portfolio of User Experience Reseach and Design class. It is still a work in progress but it will has lots of my creative works
 I am a new user of Gifhub. I thin it is good because it hosts our source code projects. Also, the projects which we put on Gifhub can be managed in whatever way is best for the user. Users can also design the organization's needs.
-"The visibility of system status" is playing an important rule for user experience design. The rteason is that it can should user the reasonable that when they are downloading something they are very clear how long they have to wait. So users will know what is going on inside of the system. 
+
+
+
+
+1. "The visibility of system status"
+"The visibility of system status" is playing an important rule for user experience design. The reason is that it can should user the reasonable that when they are downloading something they are very clear how long they have to wait. So users will know what is going on inside of the system. For example, the website of FindSisterHood shows users simple definitions on the begining page. When user scroll down, they can see Users should always be able to understand meaning without having to go look up the definition of the website in a search engine. It give users clear definitions which is easy to understand and clarify exactly what preventive care is and why it is important. It also provides answers to basic questions about preventive care and explains what’s included in the benefits of FindSIsterHood.
+
+
+
+
+
+
 "Match Between the System and the Real World" is also very important which is like "The visibility of system status". For example, when the trash cam in our lanptop is full, it will show the user the full trash in the trash cam. It gives expectations of users and their prior experiences with real-world. The full trash image can remind users that it is time to throw those trash away in their laptop. Also, the Calendar icon in users' websites is designed like the real world wall Calendar. 
 "User control and freedom" has been playing important rule for users. Everytime when I send a messege to others, I suddenly change my mind, and I can right click the option which is unsend. Once I unsend the message, it will no longer be visible to people included in the conversation.
 "Consistency and standads" can make users have more confident using the website/ APP. The reason is that when the users are moving from one screen to another, the user should not feel as if they have arrived at a new website. For example, when people use WhatsApp, the floating action buttons do not change their positions. The only thing that changes is the icon that represents the action on the screen. It is aimed to create a usable and consistent experience for the users. The users will not feel confused when they use the app. 
