@@ -27,7 +27,10 @@ It gives expectations of users and their prior experiences with real-world. The 
 4. "Consistency and standads" can make users have more confident using the website/ APP. For example, when users use the app of  FindSisterHood, users are moving from one screen to another, the user should not feel as if they have arrived at a new website. For example, when people use the App, the floating action buttons do not change their positions. The only thing that changes is the icon that represents the action on the screen. It is aimed to create a usable and consistent experience for the users. The users will not feel confused when they use the app. 
 
 ![findsisterhood](https://liwenchang0819.github.io/Liwen-Chang/shareig.png)
+
 5. "Error Prevention" After the user has the confident keep using the App/ website, "Error Prevention" will play the importnat rule. The reason is that users are humans. Everyone will make mistakes. So we should always keep an eye to avoid the mistakes by giving appropriate suggestions and notifications when needed which is very important. Because we have to keep making users feel confident use the website/APP. For exmple, when users type their passwords, the app will notifys them that if they forgot to add the attachment or if they forgot their passwords. We are humans. We will not only make mistakes sometimes but also forget somethings sometimes. 
+
+![findsisterhood](https://liwenchang0819.github.io/Liwen-Chang/error.png)
 
 6. "Recognition rather than recall" plays the important rule here because Users do not spend forever to think about that options should like type. They are given options to choose from which save lots of times for the users. Those options can remind users' previous experiences. The users do not have to think too much or recall her/his memory to complete the tasks.
 
