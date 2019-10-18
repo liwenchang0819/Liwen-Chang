@@ -14,7 +14,7 @@ I am a new user of Gifhub. I thin it is good because it hosts our source code pr
 1. "The visibility of system status"
 "The visibility of system status" is playing an important rule for user experience design. The reason is that it can should user the reasonable that when they are downloading something they are very clear how long they have to wait. So users will know what is going on inside of the system. For example, the website of FindSisterHood shows users simple definitions on the begining page. When user scroll down, they can see Users should always be able to understand meaning without having to go look up the definition of the website in a search engine. It give users clear definitions which is easy to understand and clarify exactly what preventive care is and why it is important. It also provides answers to basic questions about preventive care and explains what’s included in the benefits of FindSIsterHood.
 
-
+![findsisterhood](https://liwenchang0819.github.io/Liwen-Chang/FSH1.png)
 
 
 
