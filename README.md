@@ -16,7 +16,7 @@ I am a new user of Gifhub. I thin it is good because it hosts our source code pr
 
 
 
-
+![findsisterhood](https://liwenchang0819.github.io/Liwen-Chang/page.png)
 
 "Match Between the System and the Real World" is also very important which is like "The visibility of system status". For example, when the trash cam in our lanptop is full, it will show the user the full trash in the trash cam. It gives expectations of users and their prior experiences with real-world. The full trash image can remind users that it is time to throw those trash away in their laptop. Also, the Calendar icon in users' websites is designed like the real world wall Calendar. 
 "User control and freedom" has been playing important rule for users. Everytime when I send a messege to others, I suddenly change my mind, and I can right click the option which is unsend. Once I unsend the message, it will no longer be visible to people included in the conversation.
