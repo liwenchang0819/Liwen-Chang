@@ -16,9 +16,11 @@ I am a new user of Gifhub. I thin it is good because it hosts our source code pr
 
 
 
-######![findsisterhood](https://liwenchang0819.github.io/Liwen-Chang/page.png)
+![findsisterhood](https://liwenchang0819.github.io/Liwen-Chang/page.png)
 
 "Match Between the System and the Real World" is also very important which is like "The visibility of system status". For example, when the trash cam in our lanptop is full, it will show the user the full trash in the trash cam. It gives expectations of users and their prior experiences with real-world. The full trash image can remind users that it is time to throw those trash away in their laptop. Also, the Calendar icon in users' websites is designed like the real world wall Calendar. 
+
+![findsisterhood](https://liwenchang0819.github.io/Liwen-Chang/no2.png)
 "User control and freedom" has been playing important rule for users. Everytime when I send a messege to others, I suddenly change my mind, and I can right click the option which is unsend. Once I unsend the message, it will no longer be visible to people included in the conversation.
 "Consistency and standads" can make users have more confident using the website/ APP. The reason is that when the users are moving from one screen to another, the user should not feel as if they have arrived at a new website. For example, when people use WhatsApp, the floating action buttons do not change their positions. The only thing that changes is the icon that represents the action on the screen. It is aimed to create a usable and consistent experience for the users. The users will not feel confused when they use the app. 
 After the user has the confident keep using the App/ website, "Error Prevention" will play the importnat rule. The reason is that users are humans. Everyone will make mistakes. So we should always keep an eye to avoid the mistakes by giving appropriate suggestions and notifications when needed which is very important. Because we have to keep making users feel confident use the website/APP. For exmple, when users type their passwords, the app will notifys them that if they forgot to add the attachment or if they forgot their passwords. We are humans. We will not only make mistakes sometimes but also forget somethings sometimes. 
