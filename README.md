@@ -4,7 +4,7 @@ https://github.com/liwenchang0819/Liwen-Chang/edit/master/README.md
 ![findsisterhood](https://liwenchang0819.github.io/Liwen-Chang/Screenshot2.png)
 (This is Website Name, image link)
 
-The website/App is about an app for everyone identifying as women and to share everythings which are connected with women.  
+The website/App is about an app for everyone identifying as women and to share everythings which are connected with women around the world to share each other their unique stories anonymously. It is untraceable and safe.  The app is also judgement free. So I would like to provide my overall evaluation of the website/ app of FindSisterHood.  
 
 ![findsisterhood](https://liwenchang0819.github.io/Liwen-Chang/FSH1-1.png)
 
